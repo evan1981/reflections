@@ -1,0 +1,14 @@
+What happens when you initialize a repository? Why do you need do to it?
+
+- As one execut the "git init", git initialize a repository. It create same meta file to organise the repository, but there are no commit at the begining.
+
+- Initialize a repository distinguis git repository with normal repository.
+
+
+
+How can you use the staging area to make sure you have one commit per logical change?
+- I can execute "git diff -staged" to compare the change between staging areas and repository and check, if the change are a logical unit.
+- After I am sure about the logical change, I can execute "git commit" to commit them.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+-If you want keep the current version while you are working on some special feture, you cann have a paralle version for different perpose.
