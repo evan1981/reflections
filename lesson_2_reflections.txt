@@ -1,3 +1,4 @@
+
 What happens when you initialize a repository? Why do you need do to it?
 
 - As one execut the "git init", git initialize a repository. It create same meta file to organise the repository, but there are no commit at the begining.
@@ -12,3 +13,7 @@ How can you use the staging area to make sure you have one commit per logical ch
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 -If you want keep the current version while you are working on some special feture, you cann have a paralle version for different perpose.
+
+How do the diagrams help you visualize the branch structure?
+- visually!
+
