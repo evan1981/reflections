@@ -15,5 +15,13 @@ What are some situations when branches would be helpful in keeping your history 
 -If you want keep the current version while you are working on some special feture, you cann have a paralle version for different perpose.
 
 How do the diagrams help you visualize the branch structure?
+- git log --graph --oneline
 - visually!
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+- git merge master coins, a new version contains change of both merged version.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+- Automatic merging can save a lot of time if the change are not the same codeline, but sometime there are some conflict, that have to be merge manually.
+
 
