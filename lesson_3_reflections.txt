@@ -5,3 +5,4 @@ $git clone git://...
 
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 - forks are like a copy colone in Github, colones are local copy of a GitHub repository, branches are for a version of file, which significant feture coexist with other versions.
+$git push origin master
